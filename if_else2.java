@@ -18,6 +18,8 @@ public class if_else2 {
 		} else {
 			System.out.println("Seu numero é menor que 10");
 		}
+		
+		scanner.close();
 
 	}
 
